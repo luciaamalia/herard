@@ -23,4 +23,7 @@ public class HabitLog {
 
     @Column
     private  Boolean completed;
+
+    //comente
+
 }
